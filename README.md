@@ -2,7 +2,6 @@
 <h1 align="center">Hi There 👋, This is  Mahmudur-Nishat</h1> 
 <h1 align="center">A passionate Responsive Web Desinger from Bangladesh</h1>
 <h3 align="center">Mission 2024 :🔥 Mastering Mern-Stack 2024 🔥</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudur-nishat&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudur-nishat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
