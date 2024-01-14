@@ -1,6 +1,6 @@
 <p align="center"><img src="img/Black Minimal Motivation Quote LinkedIn Banner.png"></p>
-<h1 align="center">Hi There 🙋🏾‍♂️, Welcome To My 👑GitHub-Kingdom👑</h1> 
-<h3 align="center">This Year My Mission 2024:🔥 Mastering Mern-Stack 🔥</h3>
+<h1 align="center">Hi There 🙋🏾‍♂️ Welcome To My 👑GitHub-Kingdom👑</h1> 
+<h3 align="center"> My Mission 2024:🔥 Mastering Mern-Stack 🔥</h3>
 
 - 🔭 I’m currently working on **Responsive Web Design Project**
 
@@ -14,10 +14,7 @@
 
 - ⚡ Fun fact **I'm a chill person who's always in a good mood, but when it comes to work, I'm super hardworking and focused.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/মাহমুদুর নি শা ত" target="blank">
-</p>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/mahmudur-nishat/" target="blank">🔗 Linkedin 🔗 </a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
