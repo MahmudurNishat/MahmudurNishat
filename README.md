@@ -21,6 +21,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- 📫 Languages : Html , CSS , Responsive Web Design , Bootstrap , Tailwind .
-- 🔗 Learning Queue : Modern javascript.
-- ⚙️ Tools : Figma , Adobe Photoshop ,  Canva , Adobe PremirePro , WonderShareFilmora .
+
+- 🔭 Languages : Html , CSS , Responsive Web Design , Bootstrap , Tailwind\*\*
+
+- 🌱 Learning Queue : Modern javascript\*\*
+
+- 👨‍💻 Tools : Figma , Adobe Photoshop , Canva , Adobe PremirePro , WonderShareFilmora .\*\*
