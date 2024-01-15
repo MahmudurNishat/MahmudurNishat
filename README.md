@@ -1,4 +1,4 @@
-<p align="center"><img src="img/Black Minimal Motivation Quote LinkedIn Banner.png"></p>
+<p align="center"><img src="img/githubProfessionalBanner.png"></p>
 <h1 align="center">Hi There 👋, This is  Mahmudur-Nishat</h1> 
 <h1 align="center">A passionate Responsive Web Desinger from Bangladesh</h1>
 <h3 align="center">Mission 2024 :🔥 Mastering Mern-Stack 2024 🔥</h3>
